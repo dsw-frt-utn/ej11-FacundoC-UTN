@@ -1,5 +1,5 @@
-﻿using Dsw2026Ej11.Domain;
-namespace Dsw2026Ej11.Collections;
+﻿namespace Dsw2026Ej11.Collections;
+using Dsw2026Ej11.Domain;
 
 public class CasoDictionary
 {
